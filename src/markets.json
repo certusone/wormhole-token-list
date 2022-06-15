@@ -222,11 +222,6 @@
             "curve"
           ]
         },
-        "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv": {
           "markets": [
             "curve"
@@ -1454,11 +1449,6 @@
             "uniswap"
           ]
         },
-        "terra1hd9n65snaluvf7en0p4hqzse9eqecejz2k8rl5": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "terra1hj8de24c3yqvcsv9r8chr03fzwsak3hgd8gv3m": {
           "markets": [
             "uniswap"
@@ -1898,11 +1888,6 @@
             "curve"
           ]
         },
-        "0x49d5cC521F75e13fa8eb4E89E9D381352C897c96": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x4DB5a66E937A9F4473fA95b1cAF1d1E1D62E29EA": {
           "markets": [
             "curve"
@@ -2263,11 +2248,6 @@
             "uniswap"
           ]
         },
-        "0x3553f861dec0257bada9f8ed268bf0d74e45e89c": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x4318cb63a2b8edf2de971e2f17f77097e499459d": {
           "markets": [
             "curve"
@@ -2624,11 +2604,6 @@
             "curve"
           ]
         },
-        "0xF0FF231e3F1A50F83136717f287ADAB862f89431": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F": {
           "markets": [
             "uniswap"
@@ -2981,11 +2956,6 @@
             "uniswap"
           ]
         },
-        "0x24285C5232ce3858F00bacb950Cae1f59d1b2704": {
-          "markets": [
-            "uniswap"
-          ]
-        },
         "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F": {
           "markets": [
             "curve"
@@ -3322,11 +3292,6 @@
           ]
         },
         "0xDd1DaFedeBa5F9851C4F4a2876E0f3aF3c774B1A": {
-          "markets": [
-            "uniswap"
-          ]
-        },
-        "0xd80890AFDBd7148456D8Ee358eF9127F0F8c7faf": {
           "markets": [
             "uniswap"
           ]
