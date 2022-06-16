@@ -172,7 +172,6 @@ TOKENS = {
       "coingeckoId": "tether",
       "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "markets": {
-        "eth": ["uniswap"],
         "bsc": ["pancakeswap"],
         "matic": ["quickswap"],
         "sol": ["jupiter"], #revert to native asset
