@@ -843,6 +843,14 @@ https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/CAKE
 https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/USDCbs_wh.png
 ```
 
+### WOW
+![WOW](WOW_wh.png)
+![WOW](WOW_wh_small.png)
+
+```
+https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/WOW_wh.png
+```
+
 ### USDTbs
 ![USDTbs](USDTbs_wh.png)
 ![USDTbs](USDTbs_wh_small.png)
