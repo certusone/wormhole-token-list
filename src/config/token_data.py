@@ -1984,6 +1984,23 @@ TOKENS = {
   # 4. BSC native
   #####################
   "bsc": {
+    "WEYU": {
+      "symbol": "WEYU",
+      "name": "WEYU",
+      "sourceAddress": "0xFAfD4CB703B25CB22f43D017e7e0d75FEBc26743",
+      "coingeckoId": "weyu",
+      "logo": "https://weyu.io/img/WEYU.png",
+      "markets": {
+        "bsc": ["pancakeswap"],
+      },
+      "destinations": {
+        "sol": {
+          "address": "EHaEBhYHWA7HSphorXXosysJem6qF4agccoqDqQKCUge",
+          "decimals": 8, 
+        }
+      },
+      "sourceDecimals": 18
+    },
     "BNB": {
       "symbol": "BNB",
       "name": "Binance Coin (Portal)",
