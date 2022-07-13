@@ -740,6 +740,24 @@ TOKENS = {
       },
       "sourceDecimals": 18
     },
+    "ETHIX": {
+      "symbol": "ETHIX",
+      "name": "Ethix (Portal)",
+      "sourceAddress": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+      "coingeckoId": "ethichub",
+      "logo": "https://raw.githubusercontent.com/ethichub/wormhole-token-list/main/src/logogen/base/ETHIX.png",
+      "markets": {
+        "eth": ["uniswap", "balancer"],
+        "celo": ["symmetric"],
+      },
+      "destinations": {
+        "celo": {
+          "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+          "decimals": 18
+        }
+      },
+      "sourceDecimals": 18
+    },
     "FRAX": {
       "symbol": "FRAX",
       "name": "Frax (Portal)",
@@ -2460,7 +2478,7 @@ TOKENS = {
   "karura": {
   },
   #################
-  # 14. Celo native
+  # 12. Celo native
   #################
   "celo": {
   }

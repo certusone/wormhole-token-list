@@ -176,7 +176,7 @@ MARKETS = {
     "link": "https://apps.karura.network"
   },
   #######################
-  # 14. celo markets
+  # 12. celo markets
   #######################
   "ubeswap": {
     "name": "Ubeswap",
@@ -185,5 +185,9 @@ MARKETS = {
   "mobius": {
     "name": "Mobius",
     "link": "https://www.mobius.money/#/swap"
+  },
+  "symmetric": {
+    "name": "Symmetric",
+    "link": "https://celo.symm.fi/"
   },
 }
